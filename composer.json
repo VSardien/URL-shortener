@@ -1,0 +1,13 @@
+{
+    "require": {
+        "team-reflex/oauth2-discord": "^1.0",
+        "j0sh0nat0r/simple-cache": "^1.0",
+        "stefangabos/zebra_database": "^2.9"
+    },
+	"autoload": {
+		"psr-4": {
+          "Classes\\": "classes/",
+          "Models\\": "models/"
+        }
+	}
+}
