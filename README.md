@@ -1,1 +1,1 @@
-  This project will soon be remade or deleted
+  This project will soon be deleted
