@@ -20,3 +20,5 @@ else {
         die('404 not found');
     }
 }
+
+//Hoi
